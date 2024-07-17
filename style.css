@@ -4,14 +4,29 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 h2{
-    color: crimson;
+    color: rgb(0, 9, 132);
     font-family: cursive;
+    border-style: groove;
+    border-color: rgb(45, 0, 69);
+   border-top: 0cqmin;
+   border-radius: 0cqmax;
 }
 h3{
-    color: lightcoral;
+    color: rgb(0, 0, 0);s
     font-family: monospace;
 }
 li{
-    color: blueviolet;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+}
+body{
+    background-image:url(https://t3.ftcdn.net/jpg/02/69/25/14/360_F_269251443_GyDzLBFbj3f5vr6JdyXtT2tI91HwjsEq.jpg) ;
+    image-rendering: optimizeSpeed;
+    
+}
+a{
+    color: blue;
+    font-style: italic;
+    font-size: medium;
 }
