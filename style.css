@@ -18,15 +18,17 @@ h3{
 li{
     color: rgb(0, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
     
 }
 body{
     background-image:url(https://t3.ftcdn.net/jpg/02/69/25/14/360_F_269251443_GyDzLBFbj3f5vr6JdyXtT2tI91HwjsEq.jpg) ;
     image-rendering: optimizeSpeed;
+    border-image-slice: 150s%;
     
 }
 a{
     color: blue;
     font-style: italic;
-    font-size: medium;
+    font-size: 100%;
 }
