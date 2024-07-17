@@ -1,0 +1,17 @@
+h1{
+    color: rgb(238, 89, 14);
+    background-color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color: crimson;
+    font-family: cursive;
+}
+h3{
+    color: lightcoral;
+    font-family: monospace;
+}
+li{
+    color: blueviolet;
+    
+}
